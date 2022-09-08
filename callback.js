@@ -26,4 +26,4 @@ greeting(greetNight, 'Rasel');
 function submitHandler() {
   console.log('submit button clicked');
 }
-// document.getElementById('btn-submit').addEventListener('click', submitHandler);
+document.getElementById('btn-submit').addEventListener('click', submitHandler);
